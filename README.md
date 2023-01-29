@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="400" alt="">
 </div>
 
-### ¡Hola! Soy Gus Romero 👋
+### <h3 align="center">Hola! Soy Gus Romero 👋</h3>
 
 
 

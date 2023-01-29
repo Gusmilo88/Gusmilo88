@@ -1,4 +1,8 @@
+https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt
+
 ### ¡Hola! Soy Gus Romero 👋
+
+
 
 
 <!--
